@@ -210,9 +210,9 @@
             </div>
 
             <div class="progress">
-              <span class="skill">Photoshop <i class="val">55%</i></span>
+              <span class="skill">Laravel <i class="val">65%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
@@ -312,7 +312,7 @@
                 <i class="bx bxl-dribbble"></i>
               </div>
               <h4><a href="">Web Development</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <p>Web development refers to the building, creating, and maintaining of websites.</p>
             </div>
           </div>
 
@@ -325,7 +325,7 @@
                 <i class="bx bx-file"></i>
               </div>
               <h4><a href="">Database Designer</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <p>Database designers collect, protect, and analyze data by writing code, designing and maintaining databases, and creating online forms.</p>
             </div>
           </div>
 
@@ -338,7 +338,7 @@
                 <i class="bx bx-tachometer"></i>
               </div>
               <h4><a href="">Freelancer</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <p>freelancer, or freelance worker, are terms commonly used for a person who is self-employed and not necessarily committed to a particular employer long-term.</p>
             </div>
           </div>
 

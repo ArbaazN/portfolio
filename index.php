@@ -93,9 +93,9 @@
               <div class="col-lg-6">
                 <ul>
                   <li><i class="icofont-rounded-right"></i> <strong>Birthday:</strong> 5 April 2000</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>Website:</strong> www.example.com</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Website:</strong> https://quality-edu1.herokuapp.com/login.php/li>
                   <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> +91 9324680713</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>City:</strong> City : Maharastra, India</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>City:</strong>Maharastra, India</li>
                 </ul>
               </div>
               <div class="col-lg-6">

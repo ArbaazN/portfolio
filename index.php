@@ -102,7 +102,7 @@
                 <ul>
                   <li><i class="icofont-rounded-right"></i> <strong>Age:</strong> 21</li>
                   <li><i class="icofont-rounded-right"></i> <strong>Degree:</strong> B.E (Computer Science)</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>PhEmailone:</strong> arbaaznakhwa54@gmail.com</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Email:</strong> arbaaznakhwa54@gmail.com</li>
                   <li><i class="icofont-rounded-right"></i> <strong>Freelance:</strong> Available</li>
                 </ul>
               </div>
@@ -171,7 +171,7 @@
           <div class="col-lg-6">
 
             <div class="progress">
-              <span class="skill">HTML <i class="val">100%</i></span>
+              <span class="skill">HTML <i class="val">90%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
@@ -185,7 +185,7 @@
             </div>
 
             <div class="progress">
-              <span class="skill">JavaScript <i class="val">75%</i></span>
+              <span class="skill">JavaScript <i class="val">70%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
@@ -203,7 +203,7 @@
             </div>
 
             <div class="progress">
-              <span class="skill">WordPress/CMS <i class="val">90%</i></span>
+              <span class="skill">Java <i class="val">70%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
               </div>

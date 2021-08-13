@@ -241,7 +241,7 @@
               <ul>
                 <li>Maharastra,India</li>
                 <li>9324680713</li>
-                <li>arbaaznakhwa54@gmail.com/li>
+                <li>arbaaznakhwa54@gmail.com</li>
               </ul>
             </div>
 
@@ -365,7 +365,7 @@
               <div class="address">
                 <i class="icofont-google-map"></i>
                 <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>Mumbai, India</p>
               </div>
 
               <div class="email">
